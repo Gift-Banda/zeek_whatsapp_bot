@@ -1,0 +1,24 @@
+{
+  "name": "venom-bot",
+  "version": "0.0.1",
+  "description": "Whatsapp chatbot build with venom library",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chatbot",
+    "whatsapp",
+    "bot"
+  ],
+ 
+  "author": "Zeek",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "venom-bot": "^4.3.7"
+  }
+}

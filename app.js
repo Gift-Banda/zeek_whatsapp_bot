@@ -15,7 +15,7 @@ venom
     console.log(erro);
   });
 
-function start(client) {
+async function start(client) {
   client.onMessage(async(message) => {
       let text = message.body
       let keyword = text.toLowerCase().split(' ')[0]

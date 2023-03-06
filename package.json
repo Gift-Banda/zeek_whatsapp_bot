@@ -4,7 +4,7 @@
   "description": "Whatsapp chatbot build with venom library",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js",
+    "start": "node app.js",
     "test": "echo \"No tests yet\""
   },
   "keywords": [

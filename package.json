@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "concurrently": "^7.6.0",
+    "terminal-image": "^2.0.0",
     "venom-bot": "^4.3.7",
     "wikipedia": "^2.0.0"
   }

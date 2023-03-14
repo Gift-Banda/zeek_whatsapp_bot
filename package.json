@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "concurrently": "^7.6.0",
+    "console-png": "^1.2.1",
     "terminal-image": "^2.0.0",
     "venom-bot": "^4.3.7",
     "wikipedia": "^2.0.0"

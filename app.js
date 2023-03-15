@@ -12,7 +12,7 @@ const Info_Long = require("./features/Wiki_Long");
 
 venom
   .create({
-    session: "session-name" //name of session
+    session: "Production" //name of session
   })
   .then(client => start(client))
   .catch(erro => {

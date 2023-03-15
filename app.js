@@ -27,7 +27,9 @@ async function start(client) {
     let text = message.body;
     let keyword = text.toLowerCase().split(";")[0];
 
-    if (message.isGroupMsg === false) {
+    //console.log(message)
+
+    if (message.isGroupMsg === false ) {
       switch (keyword) {
         case "uselessfact":
           let uselessfact = await Uselessfacts();

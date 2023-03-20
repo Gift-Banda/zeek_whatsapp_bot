@@ -7,6 +7,7 @@ async function Uselessfact() {
     }
     catch(e){
         console.log(e)
+        return("******")
     }
 }
 

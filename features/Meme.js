@@ -8,6 +8,7 @@ async function GetMeme(){
 
     catch(e){
         console.log(e)
+        return("******")
     }
 }
 

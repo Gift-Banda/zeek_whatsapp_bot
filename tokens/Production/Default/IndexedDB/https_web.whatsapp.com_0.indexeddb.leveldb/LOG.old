@@ -1,3 +1,9 @@
-2023/03/18-12:39:47.233 2360 Reusing MANIFEST C:\Users\HUE\Documents\WHATSAPP BOTS\Venom bot\tokens\Production\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/03/18-12:39:47.233 2360 Recovering log #10
-2023/03/18-12:39:47.248 2360 Reusing old log C:\Users\HUE\Documents\WHATSAPP BOTS\Venom bot\tokens\Production\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000010.log 
+2023/03/20-11:08:52.820 1ce4 Reusing MANIFEST C:\Users\HUE\Documents\WHATSAPP BOTS\venombot\tokens\Production\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/20-11:08:52.821 1ce4 Recovering log #26
+2023/03/20-11:08:52.842 1ce4 Reusing old log C:\Users\HUE\Documents\WHATSAPP BOTS\venombot\tokens\Production\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000026.log 
+2023/03/20-11:10:38.395 1654 Compacting 1@1 + 1@2 files
+2023/03/20-11:10:38.764 1654 Generated table #30@1: 29622 keys, 1004559 bytes
+2023/03/20-11:10:38.764 1654 Compacted 1@1 + 1@2 files => 1004559 bytes
+2023/03/20-11:10:38.818 1654 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/20-11:10:38.818 1654 Delete type=2 #23
+2023/03/20-11:10:38.818 1654 Delete type=2 #28

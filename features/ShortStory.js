@@ -15,6 +15,7 @@ async function SS() {
     return message;
   } catch (e) {
     console.log(e);
+    return("******")
   }
 }
 
